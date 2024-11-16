@@ -36,6 +36,10 @@ However, this information is not available at runtime. This makes it difficult w
 	</a>
 </p>
 
+## Support
+
+The `--conditions` flag is currently supported in Node.js and Bun. Deno does not currently have a way to set conditions
+
 ## API
 
 ### getConditions()
